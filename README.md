@@ -21,3 +21,14 @@ The program represented in *machine code (binary)*:<br>
 01110000 0000000000000011<br>
 00000000 000000000000000<br>
 
+## Example Program Run On Virtual Computer
+
+
+The virtual computer prompts you to input your program code. Hit enter when done inputting your program code.
+
+![SC](/VCSC2.png)
+
+
+The virtual computer executes your program and prints to the console the state of the CPU registers after each instruction execution, it also shows the before and after execution state of the main memory. 
+
+![SC](/VCSC1.png)
